@@ -1,0 +1,9 @@
+"""Problem Statement: CattleWatch – Highway Cow Alert System
+
+Cattle frequently enter highways and create dangerous situations for drivers, especially during nighttime, foggy weather and rainy conditions. Drivers may not notice animals on the road in time, which can lead to road accidents and injuries.
+
+To solve this problem, **CattleWatch – Highway Cow Alert System** is designed to help truck drivers identify animals and other obstacles on highways. The system provides warning messages, sound alerts and voice alerts when an animal is detected near the truck's path. It also includes an automatic emergency braking simulation to help prevent collisions.
+
+The system allows drivers to monitor road conditions, adjust truck speed, view different camera angles and receive alerts in English, Hindi and Telugu.
+
+**Main Objective:** To improve highway safety by providing early warnings to drivers and reducing the risk of accidents caused by cattle and other obstacles on roads."""
